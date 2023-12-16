@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Vallue Notifier Playground',
+      title: 'Value Notifier Playground',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
